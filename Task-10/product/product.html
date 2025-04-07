@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecommerce</title>
+    <link rel="stylesheet" href="product.css">
+</head>
+<body>
+    <header>
+        <a href="product.html">Ecommerce</a>
+        <div class="header-controls">
+            <div class="search-container">
+                <input id="search" type="text" placeholder="Search"/>
+            </div>
+            <div class="product-category">
+                <label for="category">Category:</label>
+                <select name="product" id="category">
+                    <option value="all">All</option>
+                    <option value="electronics">Electronics</option>
+                    <option value="accessories">Accessories</option>
+                    <option value="fashion">Fashion</option>
+                    <option value="home_appliances">Home Appliances</option>
+                    <option value="books">Books</option>
+                </select>
+            </div>
+            <a class="cart-icon" href="../Cart/cart.html"><img src="https://tse3.mm.bing.net/th?id=OIP.VKasXfHmtfbASxKN7ceFCQHaHa&pid=Api&P=0&h=180" alt="cart"></a>
+        </div>
+    </header>
+
+    <main>
+        <div class="product-grid" id="products">
+        </div>
+    </main>
+
+    <script src="product.js"></script>
+</body>
+</html>

@@ -1,0 +1,203 @@
+
+[
+  {
+    "id": 1,
+    "title": "Smartphone",
+    "description": "Powerful smartphone with AMOLED display, 5G, and long battery life.",
+    "price": 29999,
+    "image": "https://m.media-amazon.com/images/I/71yzJoE7WlL._SL1500_.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "title": "Laptop",
+    "description": "Lightweight laptop with Intel i5 processor, 8GB RAM, and SSD storage.",
+    "price": 59999,
+    "image": "https://m.media-amazon.com/images/I/71vFKBpKakL._SL1500_.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "title": "Smartwatch",
+    "description": "Fitness smartwatch with heart-rate monitor, GPS, and water resistance.",
+    "price": 6999,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.o_f-JybqUc_S8T99Iqx1PgHaHa&pid=Api&P=0&h=180",
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "title": "Bluetooth Speaker",
+    "description": "Portable speaker with deep bass, Bluetooth 5.0, and 12-hour battery.",
+    "price": 2499,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.s_Xnvo6pAD3Co0czRBLJjgHaHa&pid=Api&P=0&h=180",
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "title": "T-Shirt",
+    "description": "100% cotton graphic tee for men with comfortable fit.",
+    "price": 599,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.RcFZ-ib5VFhbT5BvNNI2twHaHa&pid=Api&P=0&h=180",
+    "category": "Fashion"
+  },
+  {
+    "id": 6,
+    "title": "Women's Dress",
+    "description": "Elegant midi dress with floral print and breathable fabric.",
+    "price": 1299,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.E4iDXf6qIOkDg2xLudAILAHaJn&pid=Api&P=0&h=180",
+    "category": "Fashion"
+  },
+  {
+    "id": 7,
+    "title": "Analog Watch",
+    "description": "Classic stainless steel analog watch for everyday wear.",
+    "price": 1999,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.BugulsqyLz9CjoF7GcfJhQHaLs&pid=Api&P=0&h=180",
+    "category": "Accessories"
+  },
+  {
+    "id": 8,
+    "title": "Backpack",
+    "description": "Waterproof and spacious backpack with laptop compartment.",
+    "price": 899,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.HmP_L89yMIc_83cXQdkidwHaHa&pid=Api&P=0&h=180",
+    "category": "Accessories"
+  },
+  {
+    "id": 9,
+    "title": "Mixer Grinder",
+    "description": "Powerful mixer grinder with 3 jars and 750W motor.",
+    "price": 3299,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.H_bbGvF4XP75esBvV8E33wHaHa&pid=Api&P=0&h=180",
+    "category": "Home_Appliances"
+  },
+  {
+    "id": 10,
+    "title": "Vacuum Cleaner",
+    "description": "Bagless vacuum cleaner with powerful suction and HEPA filter.",
+    "price": 4990,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.c5FsogYjxpCk1zvXNrVf4AHaHa&pid=Api&P=0&h=180",
+    "category": "Home_Appliances"
+  },
+  {
+    "id": 11,
+    "title": "Tablet",
+    "description": "Lightweight tablet with a high-resolution display, perfect for entertainment and productivity.",
+    "price": 24999,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.c034wcEWDaq9DBdPHH7KuAHaFB&pid=Api&P=0&h=180",
+    "category": "Electronics"
+  },
+  {
+    "id": 12,
+    "title": "Wireless Earbuds",
+    "description": "Compact and comfortable earbuds with superior sound quality and long battery life.",
+    "price": 3999,
+    "image": "https://m.media-amazon.com/images/I/61f1YfTkTDL._SL1500_.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 13,
+    "title": "Digital Camera",
+    "description": "Capture stunning photos and videos with this high-performance digital camera.",
+    "price": 45999,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.LgJBcAY1KYVtWUW-HNuYIAHaHa&pid=Api&P=0&h=180",
+    "category": "Electronics"
+  },
+  {
+    "id": 14,
+    "title": "Men's Leather Jacket",
+    "description": "Stylish and durable leather jacket, perfect for a rugged yet fashionable look.",
+    "price": 7999,
+    "image": "https://sp.yimg.com/ib/th?id=OPAC.1AFZU4%2bIeoIXMw474C474&o=5&pid=21.1&w=160&h=105",
+    "category": "Fashion"
+  },
+  {
+    "id": 15,
+    "title": "Women's Handbag",
+    "description": "Elegant handbag with ample space, suitable for both casual and formal occasions.",
+    "price": 2499,
+    "image": "https://sp.yimg.com/ib/th?id=OPAC.8xL9f%2bHj6zM6Og474C474&o=5&pid=21.1&w=160&h=105",
+    "category": "Fashion"
+  },
+  {
+    "id": 16,
+    "title": "Unisex Sunglasses",
+    "description": "Trendy sunglasses offering UV protection and a classic design.",
+    "price": 1299,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.a5zWmg90wcR89BgiCoJAzAHaHa&pid=Api&P=0&h=180",
+    "category": "Accessories"
+  },
+  {
+    "id": 17,
+    "title": "Leather Wallet",
+    "description": "Premium quality leather wallet with multiple compartments for cards and cash.",
+    "price": 999,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.fufgKWaWZfoanNTtnnVN0AHaHa&pid=Api&P=0&h=180",
+    "category": "Accessories"
+  },
+  {
+    "id": 18,
+    "title": "Microwave Oven",
+    "description": "Versatile microwave oven with multiple cooking modes and easy-to-use controls.",
+    "price": 10490,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.yT5XHLjd8Lmzz47_c_AsdQAAAA&pid=Api&P=0&h=180",
+    "category": "Home_Appliances"
+  },
+  {
+    "id": 19,
+    "title": "Air Purifier",
+    "description": "Efficient air purifier with HEPA filter to ensure clean and fresh indoor air.",
+    "price": 8490,
+    "image": "https://sp.yimg.com/ib/th?id=OPAC.jPqZgPLP9a8Ppg474C474&o=5&pid=21.1&w=160&h=105",
+    "category": "Home_Appliances"
+  },
+  {
+    "id": 20,
+    "title": "Electric Kettle",
+    "description": "Fast-boiling electric kettle with auto shut-off and stainless steel body.",
+    "price": 1499,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.h9-eeo-e2BEHaJ-y6VHTqAHaHa&pid=Api&P=0&h=180",
+    "category": "Home_Appliances"
+  },
+  {
+    "id": 21,
+    "title": "Atomic Habits",
+    "description": "A guide to building good habits and breaking bad ones using proven strategies.",
+    "price": 449,
+    "image": "https://m.media-amazon.com/images/I/91bYsX41DVL._SL1500_.jpg",
+    "category": "Books"
+  },
+  {
+    "id": 22,
+    "title": "The Alchemist",
+    "description": "A philosophical story about following your dreams and discovering your personal legend.",
+    "price": 299,
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+    "category": "Books"
+  },
+  {
+    "id": 23,
+    "title": "Ikigai",
+    "description": "A Japanese concept about the joy of always being busy and finding your life’s purpose.",
+    "price": 375,
+    "image": "https://m.media-amazon.com/images/I/71tbalAHYCL.jpg",
+    "category": "Books"
+  },
+  {
+    "id": 24,
+    "title": "Wings of Fire",
+    "description": "Autobiography of Dr. A.P.J. Abdul Kalam, India's Missile Man and former President.",
+    "price": 199,
+    "image": "https://m.media-amazon.com/images/I/81drfTT9ZfL.jpg",
+    "category": "Books"
+  },
+  {
+    "id": 25,
+    "title": "Rich Dad Poor Dad",
+    "description": "A financial classic teaching money management, investments, and financial independence.",
+    "price": 399,
+    "image": "https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg",
+    "category": "Books"
+  }
+]
